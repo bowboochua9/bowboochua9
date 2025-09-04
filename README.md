@@ -1,19 +1,31 @@
 ## Hi there 👋
 
-<!--
-**bowboochua9/bowboochua9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Bùi Thiên Bảo 👋
 
-Here are some ideas to get you started:
+🎓 I’m a 2nd-year undergraduate student majoring in **Data Science** at  
+**VNUHCM - University of Information Technology**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently exploring:  
+- **Computer Vision applications**  
+- **Data Analytics & Visualization**  
+- **Data Science workflows**  
+
+👨‍💻 Current roles:  
+- Student at **University of Information Technology (UIT)**  
+- Member of the Executive Board at **[Webdev Studio](https://www.webdevstudios.org/)**  
+
+🌱 I’m learning more about **machine learning**, **deep learning**, and how to apply them to solve real-world problems.  
+👯 I’m looking to collaborate on **open-source projects in AI, data science, and web technologies**.  
+💬 Ask me about **Python, C++, algorithms, and data-driven projects**.  
+
+📫 How to reach me: **buithienbaobentre@gmail.com**  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I love turning data into meaningful stories and experimenting with new tech ideas in my free time!  
+
+---
+
+✨ *Always curious, always learning.* ✨
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Bui.ThienBao145) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/b%C3%B9i-thi%C3%AAn-b%E1%BA%A3o-8a8349327/) 

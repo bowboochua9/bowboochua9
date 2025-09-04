@@ -1,30 +1,57 @@
-## Hi there 👋
-
 # Hi there, I'm Bùi Thiên Bảo 👋
 
 🎓 I’m a 2nd-year undergraduate student majoring in **Data Science** at  
-**VNUHCM - University of Information Technology**.  
+**VNUHCM - University of Information Technology (UIT)**.  
 
-🔭 I’m currently exploring:  
-- **Computer Vision applications**  
-- **Data Analytics & Visualization**  
-- **Data Science workflows**  
+## 🎯 Career Goals
+- Data Product Specialist  
+- AI Researcher  
 
-👨‍💻 Current roles:  
+---
+
+## 🔭 What I’m working on
+- **Computer Vision applications** 👁️ (Project repo coming soon...)  
+- **Data Science projects** 📊 (Project repo coming soon...)  
+
+---
+
+## 👨‍💻 Current Roles
 - Student at **University of Information Technology (UIT)**  
-- Member of the Executive Board at **[Webdev Studio](https://www.webdevstudios.org/)**  
+- **Project Manager** & Member of the Executive Board at **[Webdev Studio](https://www.webdevstudios.org/)**  
 
-🌱 I’m learning more about **machine learning**, **deep learning**, and how to apply them to solve real-world problems.  
-👯 I’m looking to collaborate on **open-source projects in AI, data science, and web technologies**.  
-💬 Ask me about **Python, C++, algorithms, and data-driven projects**.  
+---
 
-📫 How to reach me: **buithienbaobentre@gmail.com**  
+## 🌱 Learning & Interests
+- Machine Learning & Deep Learning  
+- Data-driven Applications & AI Systems  
+- Exploring the intersection of **research and real-world applications**  
+
+---
+
+## 🏆 Achievements
+- Member of the **National Informatics Olympiad Team**  
+- Led multiple collaborative projects as a **team manager**  
+
+---
+
+## 💡 Skills
+- **Programming:** Python, C++, SQL, JavaScript  
+- **AI & Data:** Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow  
+- **Tools:** Git, Docker, Jupyter, VS Code  
+- **Soft Skills:** Teamwork, Project Management, Problem Solving  
+
+---
+
+## 📫 Contact
+- **Email:** buithienbaobentre@gmail.com  
+
 😄 Pronouns: He/Him  
-⚡ Fun fact: I love turning data into meaningful stories and experimenting with new tech ideas in my free time!  
+⚡ Fun fact: I enjoy reading books, playing chess, and diving into new ideas in AI.  
 
 ---
 
 ✨ *Always curious, always learning.* ✨
+
 
 
 ## 🌐Socials

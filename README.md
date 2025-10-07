@@ -27,7 +27,7 @@
 ## 🌱 Research & Interests
 - Machine Learning & Deep Learning  
 - **Computer Vision (primary interest)**  
-- **Quantum Machine Learning (QML) **  
+- **Quantum Machine Learning (QML)**  
 - Data-driven Applications & AI Systems
  
 ---

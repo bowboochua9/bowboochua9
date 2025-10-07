@@ -10,7 +10,7 @@
 ---
 
 ## 🔭 What I’m working on
-- **Computer Vision applications** 👁️ [](https://github.com/bowboochua9/AICHCM)  
+- **Computer Vision applications** 👁️ **[AICHCM](https://github.com/bowboochua9/AICHCM)**
 - **Data Science projects** 📊 (Project repo coming soon...)  
 
 ---

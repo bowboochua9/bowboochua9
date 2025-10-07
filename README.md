@@ -11,10 +11,11 @@
 
 ## 🔭 What I’m working on
 - **Computer Vision applications** 👁️
-  [AICHCM](https://github.com/bowboochua9/AICHCM)
-  [AIC_streamlit](https://github.com/bowboochua9/AIC_streamlit)
+  **[AICHCM_2025](https://github.com/bowboochua9/AICHCM)**
+  **[AIC_streamlit](https://github.com/bowboochua9/AIC_streamlit)**
 - **Data Science projects** 📊 (Project repo coming soon...)  
-
+  **[DSC_UIT_2025](https://github.com/bowboochua9/dsc-uit-2025)**
+  **[DST_FTU_2025](https://github.com/bowboochua9/Data-Science-Talent)**
 ---
 
 ## 👨‍💻 Current Roles

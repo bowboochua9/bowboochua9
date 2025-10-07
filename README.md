@@ -11,7 +11,8 @@
 
 ## 🔭 What I’m working on
 - **Computer Vision applications** 👁️
-**[AICHCM](https://github.com/bowboochua9/AICHCM)**
+  **[AICHCM](https://github.com/bowboochua9/AICHCM)**
+  **[AIC_streamlit](https://github.com/bowboochua9/AIC_streamlit)**
 - **Data Science projects** 📊 (Project repo coming soon...)  
 
 ---
